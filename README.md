@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bf0rs7vhsfww1rmn7bb1jjpenj6ve9e5aqwotasc&ep=v1_gifs_search&rid=giphy.gif&ct=g">                                                 
 → I’m currently crafting clean, efficient and impactful code.<br />
-→ Looking to become a Web Developer. <br />
+→ Looking to become a Software Developer. <br />
 → Lifelong learner on a mission to build technology that matters. <br />
 → How to reach me :
 <br /> (www.linkedin.com/in/aravinth03)
