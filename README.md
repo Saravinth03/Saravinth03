@@ -2,7 +2,7 @@
   Hi there 👋 Glad you’re here!
 </h1>
 
-<br /> <img align="center" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bf0rs7vhsfww1rmn7bb1jjpenj6ve9e5aqwotasc&ep=v1_gifs_search&rid=giphy.gif&ct=g"> <br />
+<img align="center" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bf0rs7vhsfww1rmn7bb1jjpenj6ve9e5aqwotasc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 # It's me Aravinth from Tiruppur, Tamilnadu.
 • I’m currently crafting clean, efficient, and impactful code✍️ <br />
