@@ -1,10 +1,13 @@
-# Hi there 👋 It's me Aravinth
-
+# Hi there 👋 It's me Aravinth from Tiruppur, Tamilnadu.
 <img align="right" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bf0rs7vhsfww1rmn7bb1jjpenj6ve9e5aqwotasc&ep=v1_gifs_search&rid=giphy.gif&ct=g">                                                 
 • I’m currently crafting clean, efficient, and impactful code✍️ <br />
 • Looking to become a Software Developer💻 <br />
 • Lifelong learner on a mission to build technology that matters🔍 <br />
-• How to reach me :
+
+# Who am I?
+I'm a fresher and detail-oriented software developer with a strong foundation in Development and Design. Proficient in building efficient, scalable solutions. Adept at learning new technologies and contributing to dynamic team environments. Passionate about developing innovative websites to solve real-world challenges while continuously enhancing skills in Technology.
+
+# How to reach me :
 <br /> (www.linkedin.com/in/aravinth03)
 
 ## I code in:
