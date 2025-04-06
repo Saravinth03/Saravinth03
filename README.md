@@ -1,6 +1,6 @@
 <h1 align="center"> 
   Hi there 👋 Glad you’re here! <br />
-  It's me Aravinth from Tiruppur, Tamilnadu. <br />
+  It's me Aravinth from Tiruppur, Tamilnadu🔗 <br />
 </h1>
 
 <p align="center">
