@@ -13,7 +13,7 @@ I'm a fresher and detail-oriented software developer with a strong foundation in
 # What can I do? 🧠
 • I’m currently crafting clean, efficient, and impactful code✍️ <br />
 • Looking to become a Software Developer💻 <br />
-• Lifelong learner on a mission to build technology that matters🔍 <br />
+• Lifelong learner on a mission to build technology that matters📈 <br />
 
 # How to reach me? 🔍
 [<img height="50" width="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" />](https://www.linkedin.com/in/aravinth03/)
