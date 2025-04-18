@@ -8,7 +8,7 @@
 </p>
 
 # Who am I? 💡
-I'm a fresher and detail-oriented software developer with a strong foundation in Development and Design. Proficient in building efficient, scalable solutions. Adept at learning new technologies and contributing to dynamic team environments. Passionate about developing innovative websites to solve real-world challenges while continuously enhancing skills in Technology.
+Motivated and detail-oriented frontend developer with a solid grasp of web development and UI/UX principles. Skilled in building responsive, user-friendly interfaces using modern tools and frameworks. Quick learner with a passion for turning design ideas into engaging web experiences, and a commitment to continuous growth.
 
 # What can I do? 🧠
 • I’m currently crafting clean, efficient, and impactful code✍️ <br />
